@@ -30,3 +30,7 @@ HTML, CSS & JavaScript
 ## Author
 
 Ayush Warrier
+
+## Note
+
+This project focuses on simplicity, performance and clean UI/UX.
