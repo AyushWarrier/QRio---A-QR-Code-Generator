@@ -29,4 +29,4 @@ HTML, CSS & JavaScript
 
 ## Author
 
-Created by [Ayush Warrier](https://github.com/AyushWarrier/)
+Ayush Warrier
