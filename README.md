@@ -25,7 +25,7 @@ HTML, CSS & JavaScript
 
 ## Live Demo
 
-[View Live Project](https://ayushwarrier.github.io/QRio---A-QR-Code-Generator/)
+[View Live Project](https://ayushwarrier.github.io/QRio/)
 
 ## Author
 
